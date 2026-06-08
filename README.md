@@ -58,3 +58,16 @@ The **Parking Management System** is a custom Odoo module designed to streamline
 
 ---
 
+## 👤 Author
+
+🧑‍💻 Author Name: **Mohamed Ayoujil**
+
+🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-ayoujil/](https://www.linkedin.com/in/mohamed-ayoujil/)
+
+---
+
+## 📜 License
+
+All rights reserved. This project is provided for viewing and evaluation purposes only.  
+[📜 View Full License](License)
+
