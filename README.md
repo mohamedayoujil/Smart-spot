@@ -27,18 +27,21 @@ The **Parking Management System** is a custom Odoo module designed to streamline
 ## 🖥️ Screenshots
 
 ### Parking Spots List View
-![List View](screenshots/list_view.png)
+![List View]<img width="1599" height="349" alt="image" src="https://github.com/user-attachments/assets/63706f1f-d38a-4c52-85b7-c20f30b488ce" />
+
 
 ### Parking Spot Form
-![Form View](screenshots/form_view.png)
+![Form View]<img width="1599" height="284" alt="image" src="https://github.com/user-attachments/assets/f7b1a550-9b6f-4091-bccf-799d7038168d" />
+
 
 ### Reservation Wizard
-![Reservation Wizard](screenshots/wizard.png)
+![Reservation Wizard]<img width="1599" height="535" alt="image" src="https://github.com/user-attachments/assets/b12356fc-3e44-4ed4-8395-5a1affe293cc" />
+
 
 ### Spot Types Configuration
-![Spot Types](screenshots/spot_types.png)
+![Spot Types]<img width="1599" height="530" alt="image" src="https://github.com/user-attachments/assets/a0c656aa-3eff-4c0f-b8da-f65a013f0239" />
 
-> **Note:** Add your screenshots to a `screenshots/` folder in the repository.
+
 
 ---
 
