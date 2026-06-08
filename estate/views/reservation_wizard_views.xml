@@ -1,0 +1,33 @@
+<odoo>
+    <record id="reservation_wizard_view_form" model="ir.ui.view">
+        <field name="name">reservation.wizard.form</field>
+        <field name="model">reservation.wizard</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <group>
+                            <field name="customer_name" placeholder="Customer Name"/>
+                            <field name="reservation_start"/>
+                            <field name="reservation_end"/>
+                        </group>
+                    </group>
+                    <footer>
+                        <button name="action_confirm_reservation" string="Confirm Reservation" 
+                                type="object" class="btn-primary"/>
+                        <button string="Cancel" class="btn-secondary" special="cancel"/>
+                    </footer>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="reservation_wizard_action" model="ir.actions.act_window">
+        <field name="name">Reservation Details</field>
+        <field name="res_model">reservation.wizard</field>
+        <field name="view_mode">form</field>
+        <field name="target">new</field>
+        <field name="binding_model_id" ref="model_estate_property"/>
+        <field name="binding_view_types">form</field>
+    </record>
+</odoo>

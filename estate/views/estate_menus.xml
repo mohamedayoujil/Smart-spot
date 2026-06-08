@@ -1,0 +1,12 @@
+<odoo>
+    <!-- Main Menu -->
+    <menuitem id="estate_menu_root" name="Parking Management"/>
+    
+    <!-- Parking Spots Menu -->
+    <menuitem id="estate_menu_spots" name="Parking Spots" parent="estate_menu_root"/>
+    <menuitem id="estate_menu_spot_action" action="estate_property_action" parent="estate_menu_spots"/>
+    
+    <!-- Configuration Menu -->
+    <menuitem id="estate_menu_config" name="Configuration" parent="estate_menu_root"/>
+    <menuitem id="estate_menu_type_action" action="estate_property_type_action" parent="estate_menu_config"/>
+</odoo>
