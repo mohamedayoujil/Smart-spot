@@ -1,4 +1,4 @@
-# 🅿️ Parking Management System for Odoo
+# Smart Spot 🅿️ Parking Management System for Odoo
 
 [![Odoo](https://img.shields.io/badge/Odoo-19.0-blue.svg)](https://www.odoo.com)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org)
@@ -54,4 +54,3 @@ The **Parking Management System** is a custom Odoo module designed to streamline
 
 ---
 
-## 📂 Module Structure
