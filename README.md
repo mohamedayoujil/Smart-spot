@@ -33,7 +33,7 @@ The **Parking Management System** is a custom Odoo module designed to streamline
 ---
 
 ### Reservation Wizard
-****<img width="1080" height="179" alt="image" src="https://github.com/user-attachments/assets/ef8ff882-118f-4994-a3b0-a3c67a7e4437" />
+<img width="1080" height="179" alt="image" src="https://github.com/user-attachments/assets/ef8ff882-118f-4994-a3b0-a3c67a7e4437" />
 
 ---
 
