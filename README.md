@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **Parking Management System** is a custom Odoo module designed to streamline parking spot reservations, occupancy tracking, and automated fee calculation. Built for the **Odoo Innovation Challenge: "Fix the Chaos"** in collaboration with **Engineers Australia**, **UOW Tech Club**, and **Odoo**.
+The **Parking Management System** is a custom Odoo module designed to streamline parking spot reservations, occupancy tracking, and automated fee calculation. Built for the **Odoo Innovation Challenge: "Fix the Chaos"** in collaboration with **Engineers Australia**, **UOW Tech Club**, and **Odoo MENA**.
 
 ---
 
